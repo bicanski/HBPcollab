@@ -4,7 +4,7 @@ This repository includes descriptions, code, and explanatory figures for neuro-c
 
 In some case code will only be made available some time after publication of a corresponding article. 
 
-Please note, the creator of the repository is not teh author of all the material provided (with permission).
+Please note, the creator of the repository is not the author of all the material provided (with permission).
 
 This repository is not intended for active development at the moment.
 
