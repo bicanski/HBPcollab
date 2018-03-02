@@ -6,6 +6,8 @@ In some case code will only be made available some time after publication of a c
 
 Please note, the creator of the repository is not the author of all the material provided (with permission).
 
+File names carry the initials of the principle author.
+
 This repository is not intended for active development at the moment.
 
 For any inquiries contact a.bicanski@ucl.ac.uk
