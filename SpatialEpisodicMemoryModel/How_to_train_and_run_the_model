@@ -1,0 +1,20 @@
+
+This document describes how to get the 'BB model' (Bicanski and Burgess 2018, eLife) up and running to simulate various aspects of spatial cognition/memory.
+
+REF
+
+Please read the file 'ReadmeFirst' first (duh) before proceeding.
+
+All scripts/functions fall into one of four categories. 
+
+1. Preparatory scripts have filenames starting with 'BB_prep...'. These scripts set up variables for the environment the simulated agent moves in, calculate connection weights etc. Creating these weights corresponds to the 'training phase' mentioned in the paper.
+
+2. Once all setup has been completed the script 'BB_main.m' can be run. This is the (surprise, surprise) main script which runs the simulation of whatever aspect of cognition you chose to simulate. The type of simulation is set by the variable 'simflag'. 
+
+3. Scripts with filenames that start with 'BB_subr...' are subroutines, called by BB_main.
+
+4. Scripts with filenames that start with 'BB_plt...' do the plotting/visualitation of neural activity.  
+
+Enjoy!
+
+Andrej Bicanski, July 2018
