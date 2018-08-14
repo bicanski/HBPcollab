@@ -259,7 +259,7 @@ eval(['load ' WTSdir '/RotIntWeights']);
 eval(['load ' WTSdir '/GC2PCwts_BB']);                 
 STD_GC2PCwts = GC2PCwts;
 if simflag ~= 50
-    GC2PCwts = GC2PCwts*2;  % not really necessay, could have been the same from 
+    GC2PCwts = GC2PCwts*2;  % not really necessary, could have been the same from 
                             % the start and in all sims. Stronger GC2PW weights 
                             % simply make PCs more stable.
 end
@@ -275,7 +275,7 @@ N_PR   = size(H2PRwts,1);
 N_HD   = size(HD2HDwts,1);
 BVCone = ones(N_BVC,1);
 N_GC   = size(GC2PCwts,2);       
-N_oPW  = size(H2BVCwts,1);       % introduceObject vector cells (OVCs/OVCs) and the parietal analog oPW
+N_oPW  = size(H2BVCwts,1);       % introduce Object vector cells (OVCs/OVCs) and the parietal analog oPW
 N_OVC  = size(H2BVCwts,1);       % not yet clear if in CA1 (so in MTL) or in LEC/MEC
 
 
@@ -340,7 +340,7 @@ minY         = 0;
 polarDistRes = 1;         % One BVC per unit radial length
 polarAngRes  = 2*pi/51;   % Angular separation of neurons on radial grid, 
                           % 51 radia because of poligonal edges in surface plots. 
-                          % In retrospect 50 with a scatterplot would have also 
+                          % 50 with a scatterplot would have also 
                           % worked, but doesn't matter. Results are the same
 
 % Set up HPC grid
