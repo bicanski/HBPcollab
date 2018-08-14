@@ -8,7 +8,7 @@ Please note, the creator of the repository is not the author of all the material
 
 This repository is not intended for active development at the moment.
 
-For any inquiries contact a.bicanski@ucl.ac.uk
+For any inquiries contact andrej.bicanski@gmail.com
 
 02. March, 2018
 Andrej Bicanski
