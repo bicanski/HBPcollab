@@ -16,7 +16,7 @@
 % The function needs to take care not to run into boundaries
 % We use a list of targets to be visited in the arena. By arranging
 % the order of the targets appropriately we avoid running into boundaries
-% and hence any complicated calculations of geometry.
+% and avoid calculations of geometry.
 
 
 function [Xnew,Ynew,ang2f_tot,toturn,dist2f_cur,CWturn,CCWturn,dwell,target_no,locateNextTarget,move2nextTarget,rotResolved] = ...
