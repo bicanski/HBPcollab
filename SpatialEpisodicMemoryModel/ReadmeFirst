@@ -1,18 +1,26 @@
 
 
-This document describes how to get the 'BB model' (Bicanski and Burgess 2018, eLife) up and running to simulate various aspects of pstial cognition/memory.
+This document describes how to get the 'BB model' (Bicanski and Burgess 2018, eLife) 
+up and running to simulate various aspects of spatial cognition/memory.
 
 REF
 
-The model implementation is in part based on previous code (Byrne, Becker, Burgess, 2007), the 'BBB model', and I have retained some conventions introduced there. 
+The model implementation is in part based on previous code (Byrne, Becker, Burgess, 2007), 
+the 'BBB model', and I have retained some conventions introduced there. 
 
-Byrne P, Becker S, Burgess N. Remembering the past and imagining the future: a neural model of spatial memory and imagery. Psychological review. 2007 Apr;114(2):340.
+Byrne P, Becker S, Burgess N. Remembering the past and imagining the future: 
+a neural model of spatial memory and imagery. Psychological review. 2007 Apr;114(2):340.
 
-The code provided comes with no warranty etc. and you use it at your own risk. Furthermore it is licenced under the GPL. YOu are free to re-use and copy the code, but attribution must be correctly given.
+The code provided comes with no warranty etc. and you use it at your own risk. 
+Furthermore it is licenced under the GPL. You are free to re-use and copy the 
+code, but attribution must be correctly given.
 
-Please note, in writing the code I have focused on readbilty/understadability, not conciseness and/or efficiency. The code runs even on modest hardware as it is, but if you are stickler for the most concise and efficient code, be brave and seek help.
+Please note, in writing the code I have focused on readbilty/understadability, 
+not conciseness and/or efficiency. The code runs even on modest hardware as it 
+is, but if you are stickler for the most concise and efficient code, be brave and seek help.
 
-I have done my best to use self-explanatory variable names and to annotate the code. If something remains cryptic its, of course, your fault but I will happily assist. Please do not hesitate to contact me.
+I have done my best to use self-explanatory variable names and to annotate the code. 
+If something remains cryptic I will happily assist. Please do not hesitate to contact me.
 
-Andrej Bicanski, July 2018
+Andrej Bicanski, August 2018
 andrej.bicanski@gmail.com
