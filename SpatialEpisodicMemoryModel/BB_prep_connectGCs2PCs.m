@@ -1,11 +1,12 @@
 
 
-% Subroutine for the BB model of spatial cogniton (2014-2018) 
+% Subroutine for the BB model of spatial cognition (2014-2018) 
 % Code developed by Andrej Bicanski (andrej.bicanski@gmail.com)
 % 
 % published in eLife
 %
-% REF
+% Bicanski A, Burgess N. A neural-level model of spatial memory and imagery. Elife. 2018;7:e 33752. 
+% DOI: 10.7554/eLife.33752
 
 
 % Make connections between PCs and GCs
