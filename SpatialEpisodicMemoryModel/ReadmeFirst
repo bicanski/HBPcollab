@@ -3,7 +3,8 @@
 This document describes how to get the 'BB model' (Bicanski and Burgess 2018, eLife) 
 up and running to simulate various aspects of spatial cognition/memory.
 
-REF
+Bicanski A, Burgess N. A neural-level model of spatial memory and imagery. Elife. 2018;7:e 33752. 
+DOI: 10.7554/eLife.33752
 
 The model implementation is in part based on previous code (Byrne, Becker, Burgess, 2007), 
 the 'BBB model', and I have retained some conventions introduced there. 
@@ -17,10 +18,10 @@ code, but attribution must be correctly given.
 
 Please note, in writing the code I have focused on readbilty/understadability, 
 not conciseness and/or efficiency. The code runs even on modest hardware as it 
-is, but if you are stickler for the most concise and efficient code, be brave and seek help.
+is. If you are stickler for the most concise and efficient code, be brave.
 
 I have done my best to use self-explanatory variable names and to annotate the code. 
 If something remains cryptic I will happily assist. Please do not hesitate to contact me.
 
-Andrej Bicanski, August 2018
+Andrej Bicanski, September 2018
 andrej.bicanski@gmail.com
