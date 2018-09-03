@@ -4,7 +4,8 @@
 % 
 % published in eLife
 %
-% REF
+% Bicanski A, Burgess N. A neural-level model of spatial memory and imagery. Elife. 2018;7:e 33752. 
+% DOI: 10.7554/eLife.33752
 %
 
 function [frame]  = BB_subr_PLT_fancy(step, modstep, plt_ttl_flag, percep_flag, simflag, ...
