@@ -1,5 +1,19 @@
 function [PRcue_percep] = BB_subr_PR_BoundaryCueing_with_Barrier_sim50(VBX_rt,VBY_rt,HD,Xag,Yag,Ybarr_beg,Ybarr_end,Xbarr_beg,Xbarr_end,nobarrier)
 
+
+% Subroutine for the BB model of spatial cogniton (2014-2018) 
+% Code developed by Andrej Bicanski (andrej.bicanski@gmail.com)
+% 
+% published in eLife
+%
+% Bicanski A, Burgess N. A neural-level model of spatial memory and imagery. Elife. 2018;7:e 33752. 
+% DOI: 10.7554/eLife.33752
+%
+% Some code has been ported from a the predecessor of this model, the BBB model.
+% (Patrick Byrne, Sue Becker and Neil Burgess, code available on request)
+
+
+
 % a simple routine to cue with the wall identity, which we assume the agent
 % can recognize. We determine the minimum distance to each wall (N,S,E,W)
 % and how many boundary points of each wall are visible. Both factors
