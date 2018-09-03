@@ -1,5 +1,5 @@
 
-% Subroutine for the BB model of spatial cogniton (2014-2018) 
+% Subroutine for the BB model of spatial cognition (2014-2018) 
 % Code developed by Andrej Bicanski (andrej.bicanski@gmail.com)
 % 
 % published in eLife
