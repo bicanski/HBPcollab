@@ -2,12 +2,13 @@
 
 %% OVERVIEW
 
-% The BB model of spatial cogniton (2014-2018) 
+% The BB model of spatial cognition (2014-2018) 
 % Code developed by Andrej Bicanski (andrej.bicanski@gmail.com)
 % 
 % published in eLife
 %
-% REF
+% Bicanski A, Burgess N. A neural-level model of spatial memory and imagery. Elife. 2018;7:e 33752. 
+% DOI: 10.7554/eLife.33752
 %
 % Some code has been ported from a the predecessor of this model, the BBB model.
 % (Patrick Byrne, Sue Becker and Neil Burgess, code available on request)
