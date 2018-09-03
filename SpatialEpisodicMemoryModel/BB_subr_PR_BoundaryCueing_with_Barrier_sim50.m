@@ -1,7 +1,7 @@
 function [PRcue_percep] = BB_subr_PR_BoundaryCueing_with_Barrier_sim50(VBX_rt,VBY_rt,HD,Xag,Yag,Ybarr_beg,Ybarr_end,Xbarr_beg,Xbarr_end,nobarrier)
 
 
-% Subroutine for the BB model of spatial cogniton (2014-2018) 
+% Subroutine for the BB model of spatial cognition (2014-2018) 
 % Code developed by Andrej Bicanski (andrej.bicanski@gmail.com)
 % 
 % published in eLife
