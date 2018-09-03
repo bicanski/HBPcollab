@@ -1,4 +1,14 @@
 
+% Subroutine for the BB model of spatial cognition (2014-2018) 
+% Code developed by Andrej Bicanski (andrej.bicanski@gmail.com)
+% 
+% published in eLife
+%
+% Bicanski A, Burgess N. A neural-level model of spatial memory and imagery. Elife. 2018;7:e 33752. 
+% DOI: 10.7554/eLife.33752
+
+
+
 function [PRcorr_IM, oPRcorr_IM, LVCcorr_IM, BVCcorr_IM, PCcorr_IM, PWcorr_IM, oPWcorr_IM, ...
           PRcorr_PE, oPRcorr_PE, LVCcorr_PE, BVCcorr_PE, PCcorr_PE, PWcorr_PE, oPWcorr_PE, ...
           PRcorr_PErand, oPRcorr_PErand, LVCcorr_PErand, BVCcorr_PErand, PCcorr_PErand, PWcorr_PErand, oPWcorr_PErand, ...
