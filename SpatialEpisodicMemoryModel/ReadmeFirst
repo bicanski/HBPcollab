@@ -1,7 +1,7 @@
 
 
-This document describes how to get the 'BB model' (Bicanski and Burgess 2018, eLife) 
-up and running to simulate various aspects of spatial cognition/memory.
+This repo contains the code for the 'BB model' (Bicanski and Burgess 2018, eLife), 
+which allows you to simulate various aspects of spatial cognition/memory.
 
 Bicanski A, Burgess N. A neural-level model of spatial memory and imagery. Elife. 2018;7:e 33752. 
 DOI: 10.7554/eLife.33752
@@ -25,3 +25,5 @@ If something remains cryptic I will happily assist. Please do not hesitate to co
 
 Andrej Bicanski, September 2018
 andrej.bicanski@gmail.com
+
+www.andrejbicanski.com
