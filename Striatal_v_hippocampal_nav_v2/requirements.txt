@@ -1,0 +1,11 @@
+matplotlib
+numpy
+Cython==0.29
+networkx
+pandas
+scikit-learn
+scipy
+seaborn
+shapely
+tqdm
+
