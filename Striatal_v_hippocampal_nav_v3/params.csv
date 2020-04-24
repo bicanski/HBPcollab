@@ -1,0 +1,9 @@
+Name,Symbol,Value
+SR learning rate,\alpha_M,0.07
+Q learning rate,\alpha_Q,0.07
+Softmax inverse temperature (exploration),\nu,5
+Discount parameter,\gamma,0.95
+Reliability learning rate,\eta,0.03
+Maximum prediction error ,\delta_{MAX},1
+Steepness of transition curve MF to SR,A_{\alpha},4
+Steepness of transition curve SR to MF ,A_{\beta},1
